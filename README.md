@@ -1,4 +1,4 @@
-Autonomous Travel Planning Agent
+**Autonomous Travel Planning Agent**
 
 An autonomous agent built with **LangChain** and **LangGraph** that plans a multi-day trip end-to-end from a single sentence prompt such as:
 
